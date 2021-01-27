@@ -1,4 +1,4 @@
-# 3D-Beacons
+# Welcome to 3D-Beacons
 
 #### [> Visit the Wiki Pages for detailed documentation](https://github.com/3D-Beacons/3d-beacons-documentation/wiki)
 
