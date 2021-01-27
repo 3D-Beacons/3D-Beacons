@@ -1,3 +1,5 @@
+![Image](https://raw.githubusercontent.com/3D-Beacons/3d-beacons-documentation/main/assets/3d-beacons-logo-with-text.png)
+
 # Welcome to 3D-Beacons
 
 #### [> Visit the Wiki Pages for detailed documentation](https://github.com/3D-Beacons/3d-beacons-documentation/wiki)
@@ -34,7 +36,7 @@ The Hub collates the data from the Beacons and expose it via Hub API endpoints.
 - [Protein Ensemble Database](https://proteinensemble.org/)
 - [SWISS-MODEL](https://swissmodel.expasy.org/)
 
-### 3D-Beacons Repositories
+### 3D-Beacons GitHub Repositories
 
 - [3D-Beacons Client](https://github.com/3D-Beacons/3d-beacons-client)
 - [3D-Beacons Registry](https://github.com/3D-Beacons/3d-beacons-registry)
