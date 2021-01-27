@@ -5,19 +5,20 @@ The protein structure is essential for the elucidation of protein function and t
 ![Image](../assets/3d-beacons-summary.png)
 3D-Beacon network is consisted of 
  1. One [hub](hub.md) collates the data from the Beacons and sends back to the user 
- 2. One [registry](registry.md) records meta-information about all participating Beacons, and lists the API endpoints that they support. 
- 3. Multiple [Beacons](beacon.md) 
- 4. [Utility functions](utility.md) make sure hub and beacons could communicate correctly    
+ 2. Multiple [Beacons](beacon.md) each represents one data source
+ 3. Different users:
+    1. Power users: use the [APIs](api.md) to do batch queries
+    2. Simple users: visit the website to do the query
 
 # Frequently Asked Questions
-Q: Will the result be redundant, i.e. can there be several models for the same sequence/segment
-A: Yes, the hub will collate models returned from all selected beacons for a given query (UniProt accession, Interpro, Pfam etc). The models are ranked, with experimental models at the top, and then ranked by model quality, with protein ensembles at the bottom
+**Q:** Will the result be redundant, i.e. can there be several models for the same sequence/segment  
+**A:** Yes, the hub will collate models returned from all selected beacons for a given query (UniProt accession, Interpro, Pfam etc). The models are ranked, with experimental models at the top, and then ranked by model quality, with protein ensembles at the bottom
 
-Q: Do 3D Beacons provide quality information for the models?
-A: Of course, QMEAN is used to evaluate the models
+**Q:** Do 3D Beacons provide quality information for the models?  
+**A:** Of course, QMEAN is used to evaluate the models
 
-Q: Will text/literature mining be provided?
-A: Sorry, they are not in plan at this point
+**Q:** Will text/literature mining be provided?  
+**A:** Sorry, they are not in plan at this point
 
-Q: Do you have known user cases for me to understand 3D Beacons better?
-A: Yes, the user cases could be found [here](user-cases.md)
+**Q:** Do you have known user cases for me to understand 3D Beacons better?  
+**A:** Yes, the user cases could be found [here](user-cases.md)
