@@ -1,5 +1,7 @@
 # 3D-Beacons
 
+#### [Visit the Wiki Pages for detailed documentation](https://github.com/3D-Beacons/3d-beacons-documentation/wiki)
+
 ## Background
 3D-Beacons is an open collaboration between providers of macromolecular structure models. The goal of this 
 collaboration is to provide model coordinates and meta-information from all the contributing data resources in a standardized data format and on a unified platform.
@@ -18,3 +20,9 @@ collaboration is to provide model coordinates and meta-information from all the 
 - [Protein Data Bank in Europe - Knowledge Base](https://pdbe-kb.org)
 - [Protein Ensemble Database](https://proteinensemble.org/)
 - [SWISS-MODEL](https://swissmodel.expasy.org/)
+
+### 3D-Beacons Repositories
+
+- [3D-Beacons Client](https://github.com/3D-Beacons/3d-beacons-client)
+- [3D-Beacons Registry](https://github.com/3D-Beacons/3d-beacons-registry)
+- [3D-Beacons Hub API](https://github.com/3D-Beacons/3d-beacons-hub-api)
