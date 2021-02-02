@@ -4,5 +4,6 @@ nav:
     - Home: index.md
     - Hub: hub.md 
     - User cases: user-cases.md 
+    - APIs: api.md
 
 theme: readthedocs 
