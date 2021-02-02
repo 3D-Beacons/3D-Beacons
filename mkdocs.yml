@@ -1,1 +1,8 @@
-site_name: My Docs
+site_name: 3D-Beacon
+
+nav:
+    - Home: index.md
+    - Hub: hub.md 
+    - User cases: user-cases.md 
+
+theme: readthedocs 
