@@ -2,7 +2,8 @@
 The protein structure is essential for the elucidation of protein function and the impacts of genetic variations. Both the number and the growth rate of experimental structures available in the PDB is orders of magnitude lower than those of available protein sequences in UniProtKB. To compensate the sparsity of experimental structures, the quality of predicted structures have been significantly enhanced recently which is shown in the recent CASP analyses. However there is no predicted method without errors. 3D-beacons provides a combined access to experimental and predicted structures with quality measurements to balance the coverage and accuracy.
 
 # Infrastructure
-![Image](../assets/3d-beacons-summary.png)
+![Image](assets/3d-beacons-summary.png)
+
 3D-Beacon network is consisted of 
  1. One [hub](hub.md) collates the data from the Beacons and sends back to the user 
  2. Multiple [Beacons](beacon.md) each represents one data source
