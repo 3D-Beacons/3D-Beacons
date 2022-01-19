@@ -24,7 +24,7 @@ collaboration is to provide model coordinates and meta-information from all the 
 The [3D-Beacons Registry](https://github.com/3D-Beacons/3d-beacons-registry) is used by 
 the [3D-Beacons Hub](https://wwwdev.ebi.ac.uk/pdbe/pdbe-kb/3dbeacons-hub-api/docs# ) to look up which API 
 endpoints are supported by the various [3D-Beacon Clients](https://github.com/3D-Beacons/3d-beacons-client). The Beacons provide data according to 
-the 3D-Beacons data specifications ([Current version: 0.3.1](https://app.swaggerhub.com/apis/3dbeacons/3D-Beacons/0.3.1)). 
+the 3D-Beacons data specifications ([Current version: 1.2.0](https://app.swaggerhub.com/apis/3dbeacons/3D-Beacons/1.2.0)).
 The Hub collates the data from the Beacons and expose it via Hub API endpoints.
 
 ### Current 3D-Beacons
