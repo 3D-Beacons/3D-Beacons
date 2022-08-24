@@ -29,13 +29,16 @@ The Hub collates the data from the Beacons and expose it via Hub API endpoints.
 
 ### Current 3D-Beacons
 
-- [AlphaFold](https://alphafold.ebi.ac.uk)
 - [AlphaFill](https://alphafill.eu/)
-- [Genome3D](http://genome3d.eu/)
-- [Protein Data Bank in Europe](https://pdbe.org)
-- [Protein Data Bank in Europe - Knowledge Base](https://pdbe-kb.org)
-- [Protein Ensemble Database](https://proteinensemble.org/)
-- [SWISS-MODEL](https://swissmodel.expasy.org/)
+- [AlphaFold DB](https://www.alphafold.ebi.ac.uk/)
+- [Genome3D](http://www.genome3d.net/)
+- [HegeLab](http://www.hegelab.org/)
+- [isoform.io](https://isoform.io/)
+- [ModelArchive](https://modelarchive.org/)
+- [PDBe](https://www.ebi.ac.uk/pdbe/)
+- [PED](https://proteinensemble.org/)
+- [SASBDB](https://www.sasbdb.org/)
+- [SWISS-MODEL Repository](https://swissmodel.expasy.org/)
 
 ### 3D-Beacons GitHub Repositories
 
