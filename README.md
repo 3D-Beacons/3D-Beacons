@@ -1,4 +1,4 @@
-![Image](https://raw.githubusercontent.com/3D-Beacons/3d-beacons-documentation/main/assets/3d-beacons-logo-with-text.png)
+<img src="https://raw.githubusercontent.com/3D-Beacons/3D-Beacons/main/assets/3D-Beacons-logo.png" style="width: 150px">
 
 # Welcome to 3D-Beacons
 
@@ -16,7 +16,7 @@ The 3D-Beacons Hub API is [available here](https://www.ebi.ac.uk/pdbe/pdbe-kb/3d
 3D-Beacons is an open collaboration between providers of macromolecular structure models. The goal of this 
 collaboration is to provide model coordinates and meta-information from all the contributing data resources in a standardized data format and on a unified platform.
 
-![Image](https://raw.githubusercontent.com/3D-Beacons/3d-beacons-documentation/main/assets/3d-beacons-summary.png)
+![Image](https://www.ebi.ac.uk/pdbe/pdbe-kb/3dbeacons/assets/img/overview.png)
 
 **Schematical overview of the 3D-Beacons infrastructure**
 
@@ -26,19 +26,6 @@ the [3D-Beacons Hub](https://wwwdev.ebi.ac.uk/pdbe/pdbe-kb/3dbeacons-hub-api/doc
 endpoints are supported by the various [3D-Beacon Clients](https://github.com/3D-Beacons/3d-beacons-client). The Beacons provide data according to 
 the [3D-Beacons data specifications](https://github.com/3D-Beacons/3d-beacons-specifications/blob/production/oas3.yaml). 
 The Hub collates the data from the Beacons and expose it via Hub API endpoints.
-
-### Current 3D-Beacons
-
-- [AlphaFill](https://alphafill.eu/)
-- [AlphaFold DB](https://www.alphafold.ebi.ac.uk/)
-- [Genome3D](http://www.genome3d.net/)
-- [HegeLab](http://www.hegelab.org/)
-- [isoform.io](https://isoform.io/)
-- [ModelArchive](https://modelarchive.org/)
-- [PDBe](https://www.ebi.ac.uk/pdbe/)
-- [PED](https://proteinensemble.org/)
-- [SASBDB](https://www.sasbdb.org/)
-- [SWISS-MODEL Repository](https://swissmodel.expasy.org/)
 
 ### 3D-Beacons GitHub Repositories
 
